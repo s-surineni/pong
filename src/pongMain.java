@@ -1,3 +1,4 @@
+//http://www.dreamincode.net/forums/topic/172211-programing-an-applet-game-of-pong/
 /* 
  * This is the main method of my Pong applet. The game is played by a single
  * player who uses the mouse to control the y position of their paddle.
